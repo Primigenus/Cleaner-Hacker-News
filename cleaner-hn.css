@@ -52,6 +52,10 @@ body > center > table > tbody > tr:nth-child(3) > td > table {
     font-size: 12px;
 }
 
+body > center > table > tbody > tr:nth-child(3) > td > table > tbody > tr:first-child > td:nth-child(2).title > a {
+    font-size: 18px;
+}
+
 .subtext {
     height: 15px;
     font-family: "Lucida Grande";
