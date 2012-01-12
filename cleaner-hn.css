@@ -25,7 +25,7 @@ body > center > table > tbody > tr:first-child > td > table > tbody > tr > td:fi
 }
 
 .pagetop {
-    font-family: "Lucida Grande";
+    font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
 
@@ -48,7 +48,7 @@ body > center > table > tbody > tr:nth-child(3) > td > table {
 
 .title {
     color: #ccc;
-    font-family: "Lucida Grande";
+    font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
     font-size: 12px;
 }
 
@@ -58,12 +58,12 @@ body > center > table > tbody > tr:nth-child(3) > td > table > tbody > tr:first-
 
 .subtext {
     height: 15px;
-    font-family: "Lucida Grande";
+    font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
     vertical-align: top;
 }
 
 td, .comment, .default, .comhead, .yclinks {
-    font-family: "Lucida Grande";
+    font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
 }
 
 body > center > table > tbody > tr:nth-child(3) > td > form {
