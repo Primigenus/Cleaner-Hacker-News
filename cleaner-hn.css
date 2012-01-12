@@ -86,3 +86,13 @@ body > center > table > tbody > tr > td > table {
     margin: 0 auto;
 }
 
+.comment u, .comment u a, .comment u a:visited, .comment + p u, .comment + p u a, .comment + p u a:visited {
+    text-decoration: none ;
+    color: #777;
+}
+
+.comment p, .comment + p {
+    margin: 8px 0 0 0;
+    line-height: 16px;
+}
+
