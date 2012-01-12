@@ -11,7 +11,10 @@ See screenshot.png for a preview of how it looks in Google Chrome.
 
 Tested in Google Chrome v16 on Mac OS X.
 
-To apply the styles in Google Chrome, install the Stylebot extension (https://chrome.google.com/webstore/detail/oiaejidbmkiecgbjeifoejpgmdaleoha), head to Hacker News, click the Stylebot button in the address bar (the one that says "css"), click Edit Css at the bottom, and then paste the contents of cleaner-hn.css.
+To apply the styles in Google Chrome, install the Stylebot extension
+(https://chrome.google.com/webstore/detail/oiaejidbmkiecgbjeifoejpgmdaleoha), head to Hacker News,
+click the Stylebot button in the address bar (the one that says "css"), click Edit Css at the bottom,
+and then paste the contents of cleaner-hn.css.
 
 January 11, 2012
 github.com/primigenus
