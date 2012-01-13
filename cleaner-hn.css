@@ -62,7 +62,7 @@ body > center > table > tbody > tr:nth-child(3) > td > table > tbody > tr:first-
     vertical-align: top;
 }
 
-td, .comment, .default, .comhead, .yclinks {
+td, .comment, .default, .comhead, .yclinks, .dead {
     font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
 }
 
