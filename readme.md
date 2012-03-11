@@ -2,7 +2,7 @@
 
 Cleaner Hacker News is a loose collection of CSS rules that you can use to improve the style of Hacker News (http://hackerne.ws or http://news.ycombinator.com).
 
-Here's a screenshot: https://github.com/Primigenus/Cleaner-Hacker-News/blob/master/screenshot.png
+Here's a screenshot: ![](https://github.com/Primigenus/Cleaner-Hacker-News/raw/master/screenshot.png)
 
 The styles improve the legibility of the page by:
 
@@ -19,7 +19,7 @@ To apply the styles in Google Chrome, install the Stylebot extension (https://ch
 
 To preview the styles you can paste this Javascript into your address bar:
 
-javascript:(function(){var st = document.createElement('link');st.type = "text/css";st.href = "https://raw.github.com/Primigenus/Cleaner-Hacker-News/master/cleaner-hn.css";st.rel = "stylesheet";document.body.appendChild(st)})()
+    javascript:(function(){var st = document.createElement('link');st.type = "text/css";st.href = "https://raw.github.com/Primigenus/Cleaner-Hacker-News/master/cleaner-hn.css";st.rel = "stylesheet";document.body.appendChild(st)})()
 
 (thanks to jQueryisAwesome on HN)
 
