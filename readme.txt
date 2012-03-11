@@ -2,6 +2,8 @@
 
 Cleaner Hacker News is a loose collection of CSS rules that you can use to improve the style of Hacker News (http://hackerne.ws or http://news.ycombinator.com).
 
+Here's a screenshot: https://github.com/Primigenus/Cleaner-Hacker-News/blob/master/screenshot.png
+
 The styles improve the legibility of the page by:
 
  * replacing Verdana with Lucida Grande on Mac OS X and with Segoe UI on Windows, and tweaking the font size; the new fonts are narrower than Verdana and easier to read
