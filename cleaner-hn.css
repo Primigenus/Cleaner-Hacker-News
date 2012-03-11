@@ -49,7 +49,7 @@ body > center > table > tbody > tr:nth-child(3) > td > table {
 .title {
     color: #ccc;
     font-family: "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 body > center > table > tbody > tr:nth-child(3) > td > table > tbody > tr:first-child > td:nth-child(2).title > a {
@@ -89,10 +89,16 @@ body > center > table > tbody > tr > td > table {
 .comment u, .comment u a, .comment u a:visited, .comment + p u, .comment + p u a, .comment + p u a:visited {
     text-decoration: none ;
     color: #777;
+    font-size: 14px;
+}
+
+.comment {
+    font-size: 14px;
 }
 
 .comment p, .comment + p {
     margin: 8px 0 0 0;
     line-height: 16px;
+    font-size: 14px;
 }
 
