@@ -1,3 +1,5 @@
+# Cleaner Hacker News
+
 Cleaner Hacker News is a loose collection of CSS rules that you can use to improve the style of Hacker News (http://hackerne.ws or http://news.ycombinator.com).
 
 The styles improve the legibility of the page by:
@@ -15,3 +17,5 @@ To apply the styles in Google Chrome, install the Stylebot extension (https://ch
 
 January 11, 2012
 github.com/primigenus
+
+Also available via Stylebot.me: http://stylebot.me/styles/1107
