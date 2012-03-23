@@ -17,6 +17,8 @@ Tested in Google Chrome v16 on Mac OS X.
 
 To apply the styles in Google Chrome, install the Stylebot extension (https://chrome.google.com/webstore/detail/oiaejidbmkiecgbjeifoejpgmdaleoha), head to Hacker News, click the Stylebot button in the address bar (the one that says "css"), click Edit Css at the bottom, and then paste the contents of cleaner-hn.css.
 
+There's also a branch available so you can get it working with Stylish in Firefox: https://github.com/Primigenus/Cleaner-Hacker-News/tree/Firefox-Stylish-port
+
 To preview the styles you can paste this Javascript into your address bar:
 
     javascript:(function(){var st = document.createElement('link');st.type = "text/css";st.href = "https://raw.github.com/Primigenus/Cleaner-Hacker-News/master/cleaner-hn.css";st.rel = "stylesheet";document.body.appendChild(st)})()
